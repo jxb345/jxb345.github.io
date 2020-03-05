@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /about/
 ---
@@ -45,4 +45,4 @@ LinkedIn Profile | GitHub Profile
 
 ### Education
 * Hack Reactor | Advanced Software Engineering Immersive Program
-Pennsylvania State University  | Bachelor of Arts, English
+Pennsylvania State University  | Bachelor of Arts, English -->
